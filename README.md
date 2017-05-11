@@ -1,2 +1,2 @@
 # hello-world
-tutorial hellp wprld repository
+tutorial hello world repository
